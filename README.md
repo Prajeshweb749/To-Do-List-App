@@ -18,7 +18,7 @@ Welcome to the To-Do List application! This project allows users to manage their
 - **CSS**: Styling, including custom scrollbar.
 - **JavaScript**: Functionality for adding, deleting, and filtering tasks, as well as managing local storage.
 
-**At the Beginning (No Tasks Uploaded)**:
+- **At the Beginning (No Tasks Uploaded)**:
   ![At the Beginning](https://i.ibb.co/b6CtcSK/Screenshot-2024-09-08-130028.png)
 
 - **After Tasks Uploaded**:
